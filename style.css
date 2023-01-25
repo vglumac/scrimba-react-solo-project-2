@@ -36,7 +36,7 @@ header {
 
 .header--logo {
     width: 24px;
-    /* margin-right: 10px; */
+    margin-right: 10px;
 } 
 
 main {
@@ -51,7 +51,7 @@ main {
     display: flex;
     max-width: 470px;
     gap: 20px;
-    /* margin-bottom: 36px; */
+    margin-bottom: 36px;
 }
 
 .post:not(:last-child) {
@@ -64,10 +64,10 @@ main {
 
 .post--image {
     max-width: 125px;
-    /* height: 168px; */
+    height: 168px;
     aspect-ratio: 4 / 10; /*isto ne radi iz nekog razloga*/
     border-radius: 5px;
-    /* margin: 36px 40px; */
+    margin: 36px 40px;
 }
 
 .post--location {
