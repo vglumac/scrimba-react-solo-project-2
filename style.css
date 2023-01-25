@@ -64,10 +64,8 @@ main {
 
 .post--image {
     max-width: 125px;
-    height: 168px;
-    aspect-ratio: 4 / 10; /*isto ne radi iz nekog razloga*/
+    aspect-ratio: 0.74; 
     border-radius: 5px;
-    margin: 36px 40px;
 }
 
 .post--location {
